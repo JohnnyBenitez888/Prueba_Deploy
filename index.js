@@ -17,15 +17,3 @@ server.listen(PORT, () => console.log(`Server running on http://localhost: ${POR
 
 
 
-/* ---------------------------------------------------------------------------------------------------------------------------- */
-
-
-/* var data = fs.readFileSync("test.txt", 'utf8');
-
-console.log(data);
-console.log("Otras Tareas"); 
-
-import { add, subtract } from './utility.mjs';
-
-console.log(add(88,12));
-console.log(subtract(88,12));*/
